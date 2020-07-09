@@ -96,10 +96,14 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 160px;
-  bottom: 186px;
+  left: 250px;
+  bottom: 300px;
 }
-
+.mountain{
+  width: 598px;
+    height: 357px;
+}
+}
 .code-img {
   width: 25%;
   float: left;
